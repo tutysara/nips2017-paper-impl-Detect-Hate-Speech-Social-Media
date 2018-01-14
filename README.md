@@ -21,3 +21,15 @@ Here is the abstract from the paper
     discriminating profanity and hate speech
     from each other. A number of directions
     for future work are discussed
+
+### Summary
+- We preprocessed the data and transformed it according to the methods stated in the paper
+- We have covered all the different vectorizers outlined in the paper and extracted many different set of features from the data
+- We wrote few utility methods to cover things like skipgrams
+- We executed the classifier on all feature sets and listed the scores of all classifiers
+- We implemented the baseline and oracle classifier
+- We implemented a combined classifier that uses all features from all vectorizers
+- We implemented the learning curve and found the effect of adding data on the classifier
+- We plotted the confusion matrix
+- We displayed some sample tweets from each of the groups of interest (Hate and Offensive) that are both correctly and incorrectly classified
+- We implemented an ensemble classifier which is mentioned in the future work
