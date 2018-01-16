@@ -3,6 +3,9 @@ Here we try to implement the paper
 
 Detecting Hate Speech in Social Media by Shervin Malmasi & Marcos Zampieri
 
+https://arxiv.org/pdf/1712.06427.pdf
+
+
 Here is the abstract from the paper
 
     Abstract
@@ -33,3 +36,4 @@ Here is the abstract from the paper
 - We plotted the confusion matrix
 - We displayed some sample tweets from each of the groups of interest (Hate and Offensive) that are both correctly and incorrectly classified
 - We implemented an ensemble classifier which is mentioned in the future work
+- We tried NBSVM classifier from https://nlp.stanford.edu/pubs/sidaw12_simple_sentiment.pdf and achieved new state of art accuracy score of 78.634
