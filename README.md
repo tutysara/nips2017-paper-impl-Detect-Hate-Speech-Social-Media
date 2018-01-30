@@ -36,4 +36,4 @@ Here is the abstract from the paper
 - Plotted the confusion matrix
 - Displayed sample tweets from each group of interest (Hate and Offensive) that are correctly and also incorrectly classified
 - Implemented an ensemble classifier which is mentioned in the future work
-- Tried NBSVM classifier from https://nlp.stanford.edu/pubs/sidaw12_simple_sentiment.pdf and achieved new state of art accuracy score of 78.634
+- Tried NBSVM classifier from https://nlp.stanford.edu/pubs/sidaw12_simple_sentiment.pdf and achieved new state of art accuracy score of 77.8
